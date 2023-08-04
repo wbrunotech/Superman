@@ -1,5 +1,8 @@
 # Landing Page - Superman & Lois
 
+## Acesse:
+https://wbrunotech.github.io/Superman/
+
 No desenvolvimento desta página, empreguei de forma eficaz as propriedades do CSS para criar um design atrativo. Utilizei propriedades como "background", "color" e "padding" na classe ".topo" para construir um cabeçalho visualmente coeso. 
 
 Na classe ".secao", utilizei "margin" e "padding" para organizar o layout de maneira equilibrada e consistente.
